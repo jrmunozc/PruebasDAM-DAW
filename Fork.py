@@ -11,4 +11,4 @@ num2 = float(num2)
 
 resultado = num1 - num2
 
-print(f"La suma de {num1} y {num2} es: {resultado}")
+print(f"La resta de {num1} y {num2} es: {resultado}")
